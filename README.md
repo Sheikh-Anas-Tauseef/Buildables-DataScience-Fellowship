@@ -1,4 +1,4 @@
-# Buildables-Data-Science-Fellowship-2025
+# Buildables-Data-Science-Fellowship-2025.
  My personal data science journey as a participant in the **Buildables Data Science Fellowship 2025**. Includes daily updates, assignments, projects, and weekly reflections.
 
 # 📊 Buildables Data Science Fellowship – Journey & Projects  
